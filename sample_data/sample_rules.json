@@ -1,0 +1,22 @@
+[
+  {
+    "keyword": "starbucks",
+    "category": "Coffee"
+  },
+  {
+    "keyword": "amazon",
+    "category": "Shopping"
+  },
+  {
+    "keyword": "netflix",
+    "category": "Entertainment"
+  },
+  {
+    "keyword": "salary",
+    "category": "Income"
+  },
+  {
+    "keyword": "walmart",
+    "category": "Groceries"
+  }
+]

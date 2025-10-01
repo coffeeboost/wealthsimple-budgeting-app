@@ -1,3 +1,13 @@
-# wealthsimple-budgeting-app
+# Budgeting App — Updated Final
 
-give me a budgeting app called Wealthsimple budgeting app. I want it to read credit card statements from a local folder. It is a simple front end only application. Provide some sample data in the project. I want to be able to see all the transactions. There needs to be a feature to add categories in the data. I want to be able to import and export rules for this. It also uses local browser storage by default. I should be able to upload rules and automatically detect the transaction and apply a category. I want to be able to edit the categories if needed. The new version should automatically update the local storage. When I press download rules it should be the updated version. In addition, I want some graphs to analyze my transactions. Make it pretty.  Download zip
+This version includes:
+- Import replace rules (UI updates immediately)
+- Auto-create smart rules from transaction edits (on blur)
+- Toast notifications for rule creation
+- Pie chart rebuilt using absolute amounts and reacts to hide income
+
+Quick start:
+1. npm install
+2. npm run dev
+
+Sample data in sample_data folder.
